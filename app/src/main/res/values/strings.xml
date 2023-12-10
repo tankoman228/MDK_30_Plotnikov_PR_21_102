@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MDK_30_Plotnikov_PR_21_102</string>
+    <string name="start">Start service</string>
+    <string name="stop">Stop service</string>
+</resources>
